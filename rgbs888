@@ -1,0 +1,148 @@
+.HEA
+.TIM Sun 12 Jul 2020 07:12:41 PM EDT
+.APP "Eeschema 5.1.6-1.fc32"
+
+.ADD_COM J6 "Conn_02x20_Odd_Even"
+.ADD_COM R2 "1K"
+.ADD_COM R3 "2K"
+.ADD_COM R4 "4K"
+.ADD_COM R5 "8K"
+.ADD_COM R6 "16K"
+.ADD_COM J1 "Conn_Coaxial"
+.ADD_COM J2 "Conn_Coaxial"
+.ADD_COM J3 "Conn_Coaxial"
+.ADD_COM J4 "Conn_Coaxial"
+.ADD_COM H1 "MountingHole"
+.ADD_COM H3 "MountingHole"
+.ADD_COM H2 "MountingHole"
+.ADD_COM H4 "MountingHole"
+.ADD_COM R7 "32K"
+.ADD_COM R8 "64K"
+.ADD_COM R9 "499"
+.ADD_COM R10 "1K"
+.ADD_COM R11 "2K"
+.ADD_COM R12 "4K"
+.ADD_COM R13 "8K"
+.ADD_COM R14 "16K"
+.ADD_COM R15 "32K"
+.ADD_COM R16 "64K"
+.ADD_COM R17 "499"
+.ADD_COM R18 "1K"
+.ADD_COM R19 "2K"
+.ADD_COM R20 "4K"
+.ADD_COM R21 "8K"
+.ADD_COM R22 "16K"
+.ADD_COM R23 "32K"
+.ADD_COM R24 "64K"
+.ADD_COM R25 "120"
+.ADD_COM R26 "120"
+.ADD_COM J5 "DB15_Female_HighDensity"
+.ADD_COM R1 "499"
+
+
+.ADD_TER J6.32 "/green[0]"
+.TER     R16.2
+.ADD_TER R15.2 "/green[1]"
+.TER     J6.33
+.ADD_TER R9.1 "/green"
+.TER     R10.1
+         R14.1
+         R13.1
+         R12.1
+         R11.1
+         J2.1
+         J5.2
+         R16.1
+         R15.1
+.ADD_TER R20.2 "/blue[4]"
+.TER     J6.24
+.ADD_TER R22.2 "/blue[2]"
+.TER     J6.31
+.ADD_TER J6.26 "/blue[3]"
+.TER     R21.2
+.ADD_TER R19.2 "/blue[5]"
+.TER     J6.21
+.ADD_TER R18.2 "/blue[6]"
+.TER     J6.19
+.ADD_TER J6.23 "/blue[7]"
+.TER     R17.2
+.ADD_TER R9.2 "/green[7]"
+.TER     J6.35
+.ADD_TER J6.38 "/red[0]"
+.TER     R8.2
+.ADD_TER R7.2 "/red[1]"
+.TER     J6.40
+.ADD_TER R14.2 "/green[2]"
+.TER     J6.8
+.ADD_TER J6.10 "/green[3]"
+.TER     R13.2
+.ADD_TER R12.2 "/green[4]"
+.TER     J6.36
+.ADD_TER J6.11 "/green[5]"
+.TER     R11.2
+.ADD_TER R10.2 "/green[6]"
+.TER     J6.12
+.ADD_TER R7.1 "/red"
+.TER     R2.1
+         R3.1
+         R4.1
+         R5.1
+         R6.1
+         J5.1
+         R8.1
+         R1.1
+         J1.1
+.ADD_TER R1.2 "/red[7]"
+.TER     J6.13
+.ADD_TER J5.13 "/hsync"
+.TER     J4.1
+         R26.1
+.ADD_TER R25.1 "/vsync"
+.TER     J5.14
+.ADD_TER J6.25 "Earth"
+.TER     J6.14
+         J4.2
+         J3.2
+         J2.2
+         J6.20
+         J6.34
+         J6.30
+         J1.2
+         J6.6
+         J6.9
+         J6.39
+         J5.5
+         J5.7
+         J5.6
+         J5.8
+         J5.10
+.ADD_TER R24.2 "/blue[0]"
+.TER     J6.7
+.ADD_TER J6.29 "/blue[1]"
+.TER     R23.2
+.ADD_TER R23.1 "/blue"
+.TER     R24.1
+         J3.1
+         R22.1
+         R21.1
+         R20.1
+         R19.1
+         R18.1
+         R17.1
+         J5.3
+.ADD_TER R25.2 "/pi_vsync"
+.TER     J6.3
+.ADD_TER R26.2 "/pi_hsync"
+.TER     J6.5
+.ADD_TER R6.2 "/red[2]"
+.TER     J6.15
+.ADD_TER J6.16 "/red[3]"
+.TER     R5.2
+.ADD_TER J6.18 "/red[4]"
+.TER     R4.2
+.ADD_TER J6.22 "/red[5]"
+.TER     R3.2
+.ADD_TER J6.37 "/red[6]"
+.TER     R2.2
+
+.END

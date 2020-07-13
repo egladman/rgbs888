@@ -1,0 +1,13 @@
+(module cannon (layer F.Cu) (tedit 5F0C8905)
+  (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1.524 1.524) (thickness 0.3)))
+  )
+  (fp_text value LOGO (at 0.75 0) (layer F.SilkS) hide
+    (effects (font (size 1.524 1.524) (thickness 0.3)))
+  )
+  (fp_poly (pts (xy 0.264583 -1.504818) (xy 0.760677 -1.504818) (xy 0.760677 -0.51263) (xy 3.257682 -0.51263)
+    (xy 3.257682 0) (xy 3.753776 0) (xy 3.753776 2.000911) (xy -3.753776 2.000911)
+    (xy -3.753776 0) (xy -3.257683 0) (xy -3.257683 -0.51263) (xy -0.760678 -0.51263)
+    (xy -0.760678 -1.504818) (xy -0.264584 -1.504818) (xy -0.264584 -2.000911) (xy 0.264583 -2.000911)
+    (xy 0.264583 -1.504818)) (layer F.SilkS) (width 0.01))
+)

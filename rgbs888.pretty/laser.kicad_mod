@@ -1,0 +1,10 @@
+(module laser (layer F.Cu) (tedit 5F0C89EE)
+  (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1.524 1.524) (thickness 0.3)))
+  )
+  (fp_text value LOGO (at 0.75 0) (layer F.SilkS) hide
+    (effects (font (size 1.524 1.524) (thickness 0.3)))
+  )
+  (fp_poly (pts (xy 0.264584 0.760677) (xy -0.248046 0.760677) (xy -0.248046 -0.74414) (xy 0.264584 -0.74414)
+    (xy 0.264584 0.760677)) (layer F.SilkS) (width 0.01))
+)
